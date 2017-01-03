@@ -1,0 +1,1 @@
+from bayesian_dense import BayesianDense, VariationalRegularizer
